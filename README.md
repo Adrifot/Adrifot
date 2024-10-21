@@ -1,5 +1,6 @@
 ## 👋 Hi there, I’m Adrian!
 I'm a Computer Science student at the [University of Bucharest](https://unibuc.ro/?lang=en)
+
 I aspire to work on projects that combine my interests in data analysis, AI, embedded systems and software development to create smarter, more connected systems.
 
 ## About me
@@ -14,7 +15,7 @@ I aspire to work on projects that combine my interests in data analysis, AI, emb
 - Looking for: opportunities to collaborate on open-source projects or internships in Web Dev, Embedded Systems, ML, or IoT.
 
 ## Technologies and Tools
-- **Languages**: <br><br>
+- **Languages:** <br><br>
   ![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=%23FFE363)
   ![C](https://img.shields.io/badge/C-%23315372.svg?logo=c&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML-%23FF4F1F.svg?logo=html5&logoColor=white)
@@ -23,7 +24,7 @@ I aspire to work on projects that combine my interests in data analysis, AI, emb
   ![SQL](https://img.shields.io/badge/SQL-477998)
   ![Verilog](https://img.shields.io/badge/Verilog%20HDL-A44A3F)
   <br><br>
-- **Frameworks & Libraries:**: <br><br>
+- **Frameworks & Libraries:** <br><br>
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?logo=bootstrap&logoColor=white)
   ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?logo=sass&logoColor=white)
   ![EJS](https://img.shields.io/badge/EJS-%23B4CA65.svg?logo=ejs&logoColor=black)
@@ -36,7 +37,7 @@ I aspire to work on projects that combine my interests in data analysis, AI, emb
   ![Tensorflow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white)
   ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=keras&logoColor=white)
   <br><br>
-- **Databases:**: <br><br>
+- **Databases:** <br><br>
   ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%247A2481.svg?logo=mongodb&logoColor=white)
