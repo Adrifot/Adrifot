@@ -30,7 +30,7 @@ I aspire to work on projects that combine my interests in Data Analysis, AI, Emb
   ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?logo=sass&logoColor=white)
   ![EJS](https://img.shields.io/badge/EJS-%23B4CA65.svg?logo=ejs&logoColor=black)
   ![Node.js](https://img.shields.io/badge/Node.js-%23058C42.svg?logo=nodedotjs&logoColor=black)
-  ![Express.js](https://img.shields.io/badge/Expresss.js-%236B818C.svg?logo=express&logoColor=black)
+  ![Express.js](https://img.shields.io/badge/Express.js-%236B818C.svg?logo=express&logoColor=black)
   ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?logo=mongoose&logoColor=white)
   ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white)
   ![SciPy](https://img.shields.io/badge/SciPy-%238CAAE6.svg?logo=scipy&logoColor=white)
