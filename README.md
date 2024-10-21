@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Adrifot
-- I’m interested in Web Development, Machine Learning and Data Analysis
-- I’m currently learning Computer Science at the University of Bucharest
-- I'm a curious person who's always looking for opportunities to learn new things
+## 👋 Hi there, I’m Adrian!
+I'm a Computer Science student at the University of Bucharest
 
+## About me
+- In my 3rd year at the Faculty of Mathematics and Computer Science
+- Interested in Web Dev, Data Analysis, AI & Machine Learning and Embedded Development
+- On a journey to blend my interests in programming, design, and electronics
