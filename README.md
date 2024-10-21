@@ -1,7 +1,7 @@
 ## 👋 Hi there, I’m Adrian!
-I'm a Computer Science student at the [University of Bucharest](https://unibuc.ro/?lang=en)
+I'm a Computer Science student at the [University of Bucharest](https://unibuc.ro/?lang=en).
 
-I aspire to work on projects that combine my interests in data analysis, AI, embedded systems and software development to create smarter, more connected systems.
+I aspire to work on projects that combine my interests in Data Analysis, AI, Embedded Systems and Software Development to create smarter, more connected systems.
 
 ## About me
 - In my 3rd year at the Faculty of Mathematics and Computer Science
@@ -10,18 +10,19 @@ I aspire to work on projects that combine my interests in data analysis, AI, emb
 - My hobbies include playing board games 🎲, reading books 📚, petting cats 🐈 and fencing ⚔️
 
 ## Work 
-- Currenly working on: a [fresh remake](https://github.com/Adrifot/BG_Shop-V2) of an older university project - an online board game shop
+- Currenly working on: a [fresh remake](https://github.com/Adrifot/BG_Shop-V2) of an [older university project](https://github.com/Adrifot/BGShop_Project_2024) - an online board game shop
 - Currently learning: bare metal C for embedded systems
-- Looking for: opportunities to collaborate on open-source projects or internships in Web Dev, Embedded Systems, ML, or IoT.
+- Looking for: opportunities to collaborate on open-source projects or internships in Web Dev, Embedded Systems, ML, or IoT
 
 ## Technologies and Tools
 - **Languages:** <br><br>
-  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=%23FFE363)
-  ![C](https://img.shields.io/badge/C-%23315372.svg?logo=c&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML-%23FF4F1F.svg?logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-%231c88c7.svg?logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23f0db4f.svg?logo=javascript&logoColor=black)
   ![SQL](https://img.shields.io/badge/SQL-477998)
+  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=%23FFE363)
+  ![C](https://img.shields.io/badge/C-%23315372.svg?logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=cplusplus&logoColor=white)
   ![Verilog](https://img.shields.io/badge/Verilog%20HDL-A44A3F)
   <br><br>
 - **Frameworks & Libraries:** <br><br>
@@ -51,9 +52,10 @@ I aspire to work on projects that combine my interests in data analysis, AI, emb
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Adrifot)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-mihael-fota/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:adrian.mihael.fota@gmail.com)
-Feel free to send me a message or an e-mail!
+
+Feel free to contact me!
 
 ## GitHub stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=Adrifot&theme=vue-dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Adrifot&theme=tokyonight&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrifot&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrifot&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
