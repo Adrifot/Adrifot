@@ -42,7 +42,7 @@ I aspire to work on projects that combine my interests in data analysis, AI, emb
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%247A2481.svg?logo=mongodb&logoColor=white)
   <br><br>
-- **Tools:**: <br><br>
+- **Tools:** <br><br>
   ![git](https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white)
   ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white)
   ![Arduino](https://img.shields.io/badge/Arduino-%2300878F.svg?logo=arduino&logoColor=white)
