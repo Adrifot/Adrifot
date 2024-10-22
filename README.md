@@ -47,6 +47,7 @@ I aspire to work on projects that combine my interests in Data Analysis, AI, Emb
   ![git](https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white)
   ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white)
   ![Arduino](https://img.shields.io/badge/Arduino-%2300878F.svg?logo=arduino&logoColor=white)
+  ![Penpot](https://img.shields.io/badge/Penpot-%23000000.svg?logo=penpot&logoColor=white)
       
 ## Socials
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Adrifot)
