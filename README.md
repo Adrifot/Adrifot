@@ -55,8 +55,3 @@ I aspire to work on projects that combine my interests in Data Analysis, AI, Emb
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:adrian.mihael.fota@gmail.com)
 
 Feel free to contact me!
-
-## GitHub stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=Adrifot&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrifot&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
