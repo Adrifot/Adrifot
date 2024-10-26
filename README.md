@@ -5,8 +5,7 @@ I aspire to work on projects that combine my interests in Data Analysis, AI, Emb
 
 ## About me
 - In my 3rd year at the Faculty of Mathematics and Computer Science
-- Interested in Web Dev, Data Analysis, AI & Machine Learning, and Embedded Development
-- On a journey to blend my interests in programming, design, and electronics
+- Interested in Web Dev, Data Analysis, AI, and Embedded Systems
 - My hobbies include playing board games 🎲, reading books 📚, petting cats 🐈 and fencing ⚔️
 
 ## Work 
