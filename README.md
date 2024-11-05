@@ -7,6 +7,7 @@ I aspire to work on projects that combine my interests in Data Analysis, AI, Emb
 - In my 3rd year at the Faculty of Mathematics and Computer Science
 - Interested in Web Dev, Data Analysis, AI, and Embedded Systems
 - My hobbies include playing board games 🎲, reading books 📚, petting cats 🐈 and fencing ⚔️
+- First place in the SmartHack 2024 hackathon
 
 ## Work 
 - Currenly working on: a [fresh remake](https://github.com/Adrifot/BG_Shop-V2) of an [older university project](https://github.com/Adrifot/BGShop_Project_2024) - an online board game shop
