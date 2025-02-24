@@ -11,8 +11,8 @@ I aspire to work on projects that combine my interests in Data Analysis, AI, Emb
 
 ## Work 
 - Currenly working on: a [fresh remake](https://github.com/Adrifot/BG_Shop-V2) of an [older university project](https://github.com/Adrifot/BGShop_Project_2024) - an online board game shop
-- Currently learning: bare metal C for embedded systems
-- Looking for: opportunities to collaborate on open-source projects or internships in Web Dev, Embedded Systems, ML, or IoT
+- Currently learning: more JavaScript
+- Looking for: opportunities to collaborate on open-source projects or internships
 
 ## Technologies and Tools
 - **Languages:** <br><br>
