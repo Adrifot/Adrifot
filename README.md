@@ -23,7 +23,6 @@ I aspire to work on projects that combine my interests in Data Analysis, AI, Emb
   ![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=%23FFE363)
   ![C](https://img.shields.io/badge/C-%23315372.svg?logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=cplusplus&logoColor=white)
-  ![Verilog](https://img.shields.io/badge/Verilog%20HDL-A44A3F)
   <br><br>
 - **Frameworks & Libraries:** <br><br>
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?logo=bootstrap&logoColor=white)
@@ -33,10 +32,7 @@ I aspire to work on projects that combine my interests in Data Analysis, AI, Emb
   ![Express.js](https://img.shields.io/badge/Express.js-%236B818C.svg?logo=express&logoColor=black)
   ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?logo=mongoose&logoColor=white)
   ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white)
-  ![SciPy](https://img.shields.io/badge/SciPy-%238CAAE6.svg?logo=scipy&logoColor=white)
   ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikitlearn&logoColor=black)
-  ![Tensorflow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white)
-  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=keras&logoColor=white)
   <br><br>
 - **Databases:** <br><br>
   ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white)
