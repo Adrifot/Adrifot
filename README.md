@@ -19,7 +19,6 @@ I aspire to work on projects that combine my interests in Data Analysis, AI, Emb
   ![HTML](https://img.shields.io/badge/HTML-%23FF4F1F.svg?logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-%231c88c7.svg?logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23f0db4f.svg?logo=javascript&logoColor=black)
-  ![SQL](https://img.shields.io/badge/SQL-477998)
   ![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=%23FFE363)
   ![C](https://img.shields.io/badge/C-%23315372.svg?logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=cplusplus&logoColor=white)
