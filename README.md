@@ -1,8 +1,6 @@
 ## 👋 Hi there, I’m Adrian!
 I'm a Computer Science student at the [University of Bucharest](https://unibuc.ro/?lang=en).
 
-I aspire to work on projects that combine my interests in Data Analysis, AI, Embedded Systems and Software Development to create smarter, more connected systems.
-
 ## About me
 - In my final year at the Faculty of Mathematics and Computer Science
 - Interested in Complex Systems, applied ML and Life Science Informatics
