@@ -17,7 +17,7 @@ I aspire to work on projects that combine my interests in Data Analysis, AI, Emb
 ## Technologies and Tools
 - **Web Technologies** <br><br>
   ![HTML](https://img.shields.io/badge/HTML-%23FF4F1F.svg?logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-%231c88c7.svg?logo=css3&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS?logo=css&color=%23663399)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?logo=bootstrap&logoColor=white)
   ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?logo=sass&logoColor=white)
   ![EJS](https://img.shields.io/badge/EJS-%23B4CA65.svg?logo=ejs&logoColor=black)
@@ -32,7 +32,6 @@ I aspire to work on projects that combine my interests in Data Analysis, AI, Emb
   ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=cplusplus&logoColor=white)
   ![Julia](https://img.shields.io/badge/Julia-%239558B2.svg?logo=julia&logoColor=white)
 
-  <br><br>
 - **Frameworks & Libraries:** <br><br>
 
   ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white)
