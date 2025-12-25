@@ -17,7 +17,7 @@ I aspire to work on projects that combine my interests in Data Analysis, AI, Emb
 ## Technologies and Tools
 - **Web Technologies** <br><br>
   ![HTML](https://img.shields.io/badge/HTML-%23FF4F1F.svg?logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS?logo=css&color=%23663399)
+  ![CSS](https://img.shields.io/badge/CSS?logo=CSS&color=%23663399)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?logo=bootstrap&logoColor=white)
   ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?logo=sass&logoColor=white)
   ![EJS](https://img.shields.io/badge/EJS-%23B4CA65.svg?logo=ejs&logoColor=black)
