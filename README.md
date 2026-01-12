@@ -32,7 +32,6 @@ I'm a Computer Science student at the [University of Bucharest](https://unibuc.r
 - **Frameworks & Libraries:** <br><br>
   ![SimPy](https://img.shields.io/badge/SimPy-%23DACC3E.svg)
   ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white)
-  ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikitlearn&logoColor=black)
   <br><br>
 - **Databases:** <br><br>
   ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white)
