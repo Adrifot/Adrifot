@@ -4,11 +4,11 @@ I'm a Computer Science student at the [University of Bucharest](https://unibuc.r
 ## About me
 - In my final year at the Faculty of Mathematics and Computer Science
 - Interested in Complex Systems and Life Science Informatics
-- My hobbies include playing board games 🎲, reading books 📚, petting cats 🐈 and fencing ⚔️
+- My hobbies include playing board games 🎲, petting cats 🐈, and fencing ⚔️
 - First place in the SmartHack 2024 hackathon
 
 ## Looking for:
-- Opportunities to collaborate on open-source projects or internships
+- Opportunities to collaborate on open-source projects
 - Chances to learn more about modelling and simulation of complex systems
 
 ## Technologies and Tools
