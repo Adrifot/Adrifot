@@ -32,6 +32,12 @@ I'm a Computer Science student at the [University of Bucharest](https://unibuc.r
 - **Frameworks & Libraries:** <br><br>
   ![SimPy](https://img.shields.io/badge/SimPy-%23DACC3E.svg)
   ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white)
+  ![Mesa](https://img.shields.io/badge/Mesa-%23a7c1de.svg)
+  <br><br>
+- **Data Visualization** <br><br>
+  ![Matploitlib](https://img.shields.io/badge/Matplotlib-%2365baea.svg) 
+  ![Plotly](https://img.shields.io/badge/Plotly-%237A76FF.svg?logo=plotly&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-%23262730.svg?logo=streamlit&logoColor=%23FF4B4B)
   <br><br>
 - **Databases:** <br><br>
   ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white)
