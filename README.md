@@ -12,7 +12,7 @@ I'm a Computer Science student at the [University of Bucharest](https://unibuc.r
 - Chances to learn more about modelling and simulation of complex systems
 
 ## Technologies and Tools
-- **Web Technologies** <br><br>
+- **Web Technologies:** <br><br>
   ![HTML](https://img.shields.io/badge/HTML-%23FF4F1F.svg?logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-%23663399.svg?logo=css&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?logo=bootstrap&logoColor=white)
@@ -34,7 +34,7 @@ I'm a Computer Science student at the [University of Bucharest](https://unibuc.r
   ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white)
   ![Mesa](https://img.shields.io/badge/Mesa-%23a7c1de.svg)
   <br><br>
-- **Data Visualization** <br><br>
+- **Data Visualization:** <br><br>
   ![Matploitlib](https://img.shields.io/badge/Matplotlib-%2365baea.svg) 
   ![Plotly](https://img.shields.io/badge/Plotly-%237A76FF.svg?logo=plotly&logoColor=white)
   ![Streamlit](https://img.shields.io/badge/Streamlit-%23262730.svg?logo=streamlit&logoColor=%23FF4B4B)
