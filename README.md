@@ -30,8 +30,8 @@ I'm a Computer Science student at the [University of Bucharest](https://unibuc.r
   ![Julia](https://img.shields.io/badge/Julia-%239558B2.svg?logo=julia&logoColor=white)
   <br><br>
 - **Frameworks & Libraries:** <br><br>
-  ![SimPy](https://img.shields.io/badge/SimPy-%23DACC3E.svg)
   ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white)
+  ![SimPy](https://img.shields.io/badge/SimPy-%23DACC3E.svg)
   ![Mesa](https://img.shields.io/badge/Mesa-%23a7c1de.svg)
   <br><br>
 - **Data Visualization:** <br><br>
