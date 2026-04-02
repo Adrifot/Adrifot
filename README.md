@@ -28,6 +28,7 @@ I'm a Computer Science student at the [University of Bucharest](https://unibuc.r
   ![C](https://img.shields.io/badge/C-%23315372.svg?logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=cplusplus&logoColor=white)
   ![Julia](https://img.shields.io/badge/Julia-%239558B2.svg?logo=julia&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=black)
   <br><br>
 - **Frameworks & Libraries:** <br><br>
   ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white)
