@@ -23,11 +23,11 @@ I'm a Computer Science student at the [University of Bucharest](https://unibuc.r
   ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?logo=mongoose&logoColor=white)
     <br><br>
 - **Languages:** <br><br>
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23f0db4f.svg?logo=javascript&logoColor=black)
+  ![Julia](https://img.shields.io/badge/Julia-%239558B2.svg?logo=julia&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=%23FFE363)
   ![C](https://img.shields.io/badge/C-%23315372.svg?logo=c&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23f0db4f.svg?logo=javascript&logoColor=black)
   ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=cplusplus&logoColor=white)
-  ![Julia](https://img.shields.io/badge/Julia-%239558B2.svg?logo=julia&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=black)
   <br><br>
 - **Frameworks & Libraries:** <br><br>
@@ -47,6 +47,7 @@ I'm a Computer Science student at the [University of Bucharest](https://unibuc.r
   <br><br>
 - **Tools:** <br><br>
   ![git](https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white)
+  ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?logo=latex&logoColor=white)
   ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white)
   ![Arduino](https://img.shields.io/badge/Arduino-%2300878F.svg?logo=arduino&logoColor=white)
       
