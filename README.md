@@ -3,6 +3,7 @@ I'm a Computer Science student at the [University of Bucharest](https://unibuc.r
 
 ## About me
 - In my final year at the Faculty of Mathematics and Computer Science
+- Beginning a Master's in Life Science Technologies (Complex Systems) at Aalto University in August 🇫🇮 
 - Interested in Complex Systems and Life Science Informatics
 - My hobbies include playing board games 🎲, petting cats 🐈, and fencing ⚔️
 - First place in the SmartHack 2024 hackathon
