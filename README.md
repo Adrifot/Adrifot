@@ -1,10 +1,8 @@
 ## 👋 Hi there, I’m Adrian!
-I'm a Computer Science student at the [University of Bucharest](https://unibuc.ro/?lang=en).
+I'm a Complex Systems Master's student at Aalto University
 
 ## About me
-- In my final year at the Faculty of Mathematics and Computer Science
-- Beginning a Master's in Life Science Technologies (Complex Systems) at Aalto University in August 🇫🇮 
-- Interested in Complex Systems and Life Science Informatics
+- Interested in Complex Systems, Life Science Technologies, Modelling and Simulation
 - My hobbies include playing board games 🎲, petting cats 🐈, and fencing ⚔️
 - First place in the SmartHack 2024 hackathon
 
@@ -28,8 +26,6 @@ I'm a Computer Science student at the [University of Bucharest](https://unibuc.r
   ![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=%23FFE363)
   ![C](https://img.shields.io/badge/C-%23315372.svg?logo=c&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23f0db4f.svg?logo=javascript&logoColor=black)
-  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=cplusplus&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=black)
   <br><br>
 - **Frameworks & Libraries:** <br><br>
   ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white)
@@ -40,6 +36,8 @@ I'm a Computer Science student at the [University of Bucharest](https://unibuc.r
   ![Matploitlib](https://img.shields.io/badge/Matplotlib-%2365baea.svg) 
   ![Plotly](https://img.shields.io/badge/Plotly-%237A76FF.svg?logo=plotly&logoColor=white)
   ![Streamlit](https://img.shields.io/badge/Streamlit-%23262730.svg?logo=streamlit&logoColor=%23FF4B4B)
+  ![Makie](https://img.shields.io/badge/Makie-%233b7fb4.svg)
+
   <br><br>
 - **Databases:** <br><br>
   ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white)
