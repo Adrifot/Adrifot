@@ -37,7 +37,6 @@ I'm a Complex Systems Master's student at Aalto University
   ![Plotly](https://img.shields.io/badge/Plotly-%237A76FF.svg?logo=plotly&logoColor=white)
   ![Streamlit](https://img.shields.io/badge/Streamlit-%23262730.svg?logo=streamlit&logoColor=%23FF4B4B)
   ![Makie](https://img.shields.io/badge/Makie-%233b7fb4.svg)
-
   <br><br>
 - **Databases:** <br><br>
   ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white)
